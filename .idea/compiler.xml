@@ -11,6 +11,8 @@
         <module name="Project2.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="SpringBootSample" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>
