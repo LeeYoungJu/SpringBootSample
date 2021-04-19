@@ -9,3 +9,10 @@ com/jojoldu/book/domain/posts/Posts.java
  com.jojoldu.book.domain.posts.Posts$PostsBuilder
 com/jojoldu/book/domain/posts/PostsRepository.java
  com.jojoldu.book.domain.posts.PostsRepository
+com/jojoldu/book/web/PostsApiController.java
+ com.jojoldu.book.web.PostsApiController
+com/jojoldu/book/web/dto/PostsSaveRequestDto.java
+ com.jojoldu.book.web.dto.PostsSaveRequestDto
+ com.jojoldu.book.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/jojoldu/book/service/posts/PostsService.java
+ com.jojoldu.book.service.posts.PostsService

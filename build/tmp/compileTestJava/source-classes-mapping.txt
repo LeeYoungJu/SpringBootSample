@@ -4,3 +4,5 @@ com/jojoldu/book/web/dto/HelloResponseDtoTest.java
  com.jojoldu.book.web.dto.HelloResponseDtoTest
 com/jojoldu/book/web/HelloControllerTest.java
  com.jojoldu.book.web.HelloControllerTest
+com/jojoldu/book/web/PostsApiControllerTest.java
+ com.jojoldu.book.web.PostsApiControllerTest
