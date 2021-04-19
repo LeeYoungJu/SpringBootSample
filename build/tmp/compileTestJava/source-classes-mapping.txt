@@ -1,3 +1,5 @@
+com/jojoldu/book/domain/posts/PostsRepositoryTest.java
+ com.jojoldu.book.domain.posts.PostsRepositoryTest
 com/jojoldu/book/web/dto/HelloResponseDtoTest.java
  com.jojoldu.book.web.dto.HelloResponseDtoTest
 com/jojoldu/book/web/HelloControllerTest.java
