@@ -1,18 +1,29 @@
-com/jojoldu/book/Application.java
- com.jojoldu.book.Application
+com/jojoldu/book/web/dto/PostsUpdateRequestDto.java
+ com.jojoldu.book.web.dto.PostsUpdateRequestDto
+ com.jojoldu.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/jojoldu/book/web/HelloController.java
  com.jojoldu.book.web.HelloController
 com/jojoldu/book/web/dto/HelloResponseDto.java
  com.jojoldu.book.web.dto.HelloResponseDto
-com/jojoldu/book/domain/posts/Posts.java
- com.jojoldu.book.domain.posts.Posts
- com.jojoldu.book.domain.posts.Posts$PostsBuilder
-com/jojoldu/book/domain/posts/PostsRepository.java
- com.jojoldu.book.domain.posts.PostsRepository
-com/jojoldu/book/web/PostsApiController.java
- com.jojoldu.book.web.PostsApiController
+com/jojoldu/book/web/dto/PostsResponseDto.java
+ com.jojoldu.book.web.dto.PostsResponseDto
+com/jojoldu/book/Application.java
+ com.jojoldu.book.Application
+com/jojoldu/book/domain/BaseTimeEntity.java
+ com.jojoldu.book.domain.BaseTimeEntity
 com/jojoldu/book/web/dto/PostsSaveRequestDto.java
  com.jojoldu.book.web.dto.PostsSaveRequestDto
  com.jojoldu.book.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/jojoldu/book/domain/posts/Posts.java
+ com.jojoldu.book.domain.posts.Posts
+ com.jojoldu.book.domain.posts.Posts$PostsBuilder
+com/jojoldu/book/web/dto/PostsListResponseDto.java
+ com.jojoldu.book.web.dto.PostsListResponseDto
+com/jojoldu/book/web/IndexController.java
+ com.jojoldu.book.web.IndexController
+com/jojoldu/book/web/PostsApiController.java
+ com.jojoldu.book.web.PostsApiController
 com/jojoldu/book/service/posts/PostsService.java
  com.jojoldu.book.service.posts.PostsService
+com/jojoldu/book/domain/posts/PostsRepository.java
+ com.jojoldu.book.domain.posts.PostsRepository
