@@ -1,6 +1,6 @@
 package com.jojoldu.book.web;
 
-import com.jojoldu.book.config.auth.dto.LoginUser;
+import com.jojoldu.book.config.auth.LoginUser;
 import com.jojoldu.book.config.auth.dto.SessionUser;
 import com.jojoldu.book.service.posts.PostsService;
 import com.jojoldu.book.web.dto.PostsResponseDto;

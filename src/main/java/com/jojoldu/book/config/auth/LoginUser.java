@@ -1,4 +1,4 @@
-package com.jojoldu.book.config.auth.dto;
+package com.jojoldu.book.config.auth;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

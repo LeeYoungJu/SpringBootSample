@@ -1,4 +1,4 @@
-package com.jojoldu.book.config.auth.dto;
+package com.jojoldu.book.config.auth;
 
 import com.jojoldu.book.config.auth.CustomOAuth2UserService;
 import com.jojoldu.book.domain.user.Role;

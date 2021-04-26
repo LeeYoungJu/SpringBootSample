@@ -1,6 +1,5 @@
 package com.jojoldu.book.config.auth;
 
-import com.jojoldu.book.config.auth.dto.LoginUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.MethodParameter;
 import org.springframework.stereotype.Component;
