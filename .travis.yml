@@ -1,7 +1,6 @@
 language: java
 jdk:
-  - 13.0.2
-  - openjdk
+  - openjdk13.0.2
 
 branches:
   only:
