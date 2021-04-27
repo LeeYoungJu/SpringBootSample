@@ -5,8 +5,9 @@ com/jojoldu/book/domain/user/User.java
  com.jojoldu.book.domain.user.User$UserBuilder
 com/jojoldu/book/web/dto/PostsListResponseDto.java
  com.jojoldu.book.web.dto.PostsListResponseDto
-com/jojoldu/book/domain/BaseTimeEntity.java
- com.jojoldu.book.domain.BaseTimeEntity
+com/jojoldu/book/config/auth/dto/OAuthAttributes.java
+ com.jojoldu.book.config.auth.dto.OAuthAttributes
+ com.jojoldu.book.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/jojoldu/book/web/HelloController.java
  com.jojoldu.book.web.HelloController
 com/jojoldu/book/web/PostsApiController.java
@@ -46,8 +47,7 @@ com/jojoldu/book/domain/posts/Posts.java
  com.jojoldu.book.domain.posts.Posts$PostsBuilder
 com/jojoldu/book/config/WebConfig.java
  com.jojoldu.book.config.WebConfig
-com/jojoldu/book/config/auth/dto/OAuthAttributes.java
- com.jojoldu.book.config.auth.dto.OAuthAttributes
- com.jojoldu.book.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/jojoldu/book/config/auth/CustomOAuth2UserService.java
  com.jojoldu.book.config.auth.CustomOAuth2UserService
+com/jojoldu/book/domain/BaseTimeEntity.java
+ com.jojoldu.book.domain.BaseTimeEntity
